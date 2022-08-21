@@ -1,4 +1,4 @@
-<img scr="https://i.gifer.com/UbJg.gif">
+<img align="center" width="400" scr="https://i.gifer.com/UbJg.gif">
 <h1 align="center">Hi 👋, I'm Estherr Udofia</h1>
 <h3 align="center">A passionate backend developer from Nigeria</h3>
 
