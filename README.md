@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Estherr Udofia</h1>
 <h3 align="center">A passionate backend developer from Nigeria</h3>
 
-- 🌱 I’m brushing up edges in **Nodejs, expressjs, mongodb**
+- 🌱 I’m proficient in **Nodejs, expressjs, mongodb and typescript**
 
 - 📫 How to reach me **queenstarry247@gmail.com**
 
